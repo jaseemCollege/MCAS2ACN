@@ -1,18 +1,13 @@
-echo "Enter a number"
-read num
-temp=$num
+echo "Enter a number:"
+read n
+temp=$n
+rev=0
 
-sum=0
-while [ $num -gt 0 ]
-do
-    rem=$(( $num % 10 ))
-    sum=$(( $sum + $rem * $rem * $rem ))
-    num=$(( $num / 10 ))
+while [ $n -ne 0 ]; do
+    digit=$(( $n % 10 ))
+    rev=$(( $rev + $digit*$digit*$digit ))
+    n=$(( $n / 10 ))
 done
 
-if [ $temp -eq $sum ]
-then
-    echo "Amstrong number"
-else
-    echo "Not an amstrong number"
-fi
+echo "Original number: $temp"
+echo "Reversed number: $rev"
