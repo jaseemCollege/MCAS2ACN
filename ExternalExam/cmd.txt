@@ -1,0 +1,941 @@
+    1  sudo apt-get update
+    2  ls
+    3  cd Desktop
+    4  ls
+    5  mkdir smple
+    6  ls
+    7  cd smple
+    8  sudo apt-get update
+    9  ls
+   10  cd D
+   11  cd De
+   12  cd Desktop
+   13  ls
+   14  sudo apt-get update
+   15  ls
+   16  sudo apt-get update
+   17  sudo apt-get upgrade
+   18  ls
+   19  cd Desktop
+   20  vi sml.sh
+   21  chrom +x sml.sh
+   22  sudo sml.sh
+   23  ./sml.sh
+   24  sudo ./sml.sh
+   25  cd
+   26  cd Desktop
+   27  ls
+   28  sudo bash sml.sh
+   29  vi filname.txt
+   30  vi read.sh
+   31  sudo bash read.sh
+   32  cd ..
+   33  ls
+   34  sudo apt-get update
+   35  ls
+   36  cd Desktop
+   37  ls
+   38  mkdir Shell
+   39  mv sml.sh Shell
+   40  mv filname.txt Shell
+   41  mv read.sh Shell
+   42  cd Shell
+   43  ls
+   44  cd Desktop
+   45  cd Shell
+   46  ls
+   47  cd Desktop
+   48  cd Shell
+   49  ls
+   50  vi sumNo.sh
+   51  sudo bash sumNo.sh 
+   52  vi sumNo.sh
+   53  bash sumNo.sh 
+   54  vi sumNo.sh
+   55  bash sumNo.sh 
+   56  vi sumNo.sh
+   57  bash sumNo.sh 
+   58  vi sumNo.sh
+   59  5
+   60  bash sumNo.sh 
+   61  vi fileRev.txt
+   62  vi fileReverse.sh
+   63  bash fileReverse.sh
+   64  vi countFile.sh
+   65  bash countFile.sh
+   66  vi countFile.sh
+   67  bash countFile.sh
+   68  vi countFile.sh
+   69  bash countFile.sh
+   70  vi countFile.sh
+   71  bash countFile.sh
+   72  vi countFile.sh
+   73  bash countFile.sh
+   74  vi readLineWithNo.sh
+   75  bash readLineWithNo.sh
+   76  vi readLineWithNo.sh
+   77  bash readLineWithNo.sh
+   78  bash checkTrangle.sh
+   79  vi checkTrangle.sh
+   80  bash checkTrangle.sh
+   81  vi checkTrangle.sh
+   82  bash checkTrangle.sh
+   83  vi checkTrangle.sh
+   84  bash checkTrangle.sh
+   85  vi checkTrangle.sh
+   86  cd Desktop
+   87  cd Shell
+   88  vi vowelsCount.sh
+   89  bash vowelsCount.sh
+   90  vi vowelsCount.sh
+   91  bash vowelsCount.sh
+   92  vi vowelsCount.sh
+   93  bash vowelsCount.sh
+   94  vi fileRev.txt
+   95  bash vowelsCount.sh
+   96  vi fileRev.txt
+   97  vi vowelsCount.sh
+   98  vi grepSample.sh
+   99  bash grepSample.sh
+  100  vi grepSample.sh
+  101  vi email.sh
+  102  vi grepSample.sh
+  103  vi email.sh
+  104  vi vowelsCount.sh
+  105  vi email.sh
+  106  vi vowelsCount.sh
+  107  vi email.sh
+  108  bash email.sh
+  109  vi vowelsCount.sh
+  110  vi email.sh
+  111  bash email.sh
+  112  vi vowelsCount.sh
+  113  vi email.sh
+  114  bash email.sh
+  115  vi email.sh
+  116  bash email.sh
+  117  vi email.sh
+  118  bash email.sh
+  119  vi email.sh
+  120  bash email.sh
+  121  vi email.sh
+  122  bash email.sh
+  123  vi email.sh
+  124  bash email.sh
+  125  vi email.sh
+  126  bash email.sh
+  127  vi email.sh
+  128  bash email.sh
+  129  vi email.sh
+  130  vi countfile.sh
+  131  cd ..
+  132  vi countfile.sh
+  133  bash countfile.sh
+  134  vi countfile.sh
+  135  bash countfile.sh
+  136  vi countfile.sh
+  137  bash countfile.sh
+  138  vi countfile.sh
+  139  bash countfile.sh
+  140  vi countfile.sh
+  141  bash countfile.sh
+  142  vi countfile.sh
+  143  bash countfile.sh
+  144  vi countfile.sh
+  145  bash countfile.sh
+  146  vi countfile.sh
+  147  bash countfile.sh
+  148  vi countfile.sh
+  149  bash countfile.sh
+  150  vi countfile.sh
+  151  cd Desktop
+  152  cd Shell
+  153  ls
+  154  vi smplPiping.sh
+  155  bash smplPiping.sh
+  156  vi smplPiping.sh
+  157  bash smplPiping.sh
+  158  vi smplPiping.sh
+  159  ls
+  160  vi primeNo.sh
+  161  vi primNo.sh
+  162  vi fibonacci.sh
+  163  bash fibonacci.sh
+  164  vi fibonacci.sh
+  165  bash fibonacci.sh
+  166  vi fibonacci.sh
+  167  bash fibonacci.sh
+  168  vi fibonacci.sh
+  169  vi arth
+  170  mv arth arthOp.sh
+  171  vi arthOp.sh
+  172  bash arthOp.sh
+  173  vi arthOp.sh
+  174  bash arthOp.sh
+  175  vi arthOp.sh
+  176  bash arthOp.sh
+  177  clear
+  178  vi arthOp.sh
+  179  bash arthOp.sh
+  180  ls
+  181  vi amstrong.sh
+  182  vi noRev.sh
+  183  bash noRev.sh
+  184  vi noRev.sh
+  185  bash noRev.sh
+  186  vi noRev.sh
+  187  bash noRev.sh
+  188  vi noRev.sh
+  189  bash noRev.sh
+  190  vi noRev.sh
+  191  bash noRev.sh
+  192  vi noRev.sh
+  193  bash noRev.sh
+  194  vi noRev.sh
+  195  bash noRev.sh
+  196  vi noRev.sh
+  197  bash noRev.sh
+  198  vi noRev.sh
+  199  bash noRev.sh
+  200  vi noRev.sh
+  201  bash noRev.sh
+  202  vi noRev.sh
+  203  bash noRev.sh
+  204  vi noRev.sh
+  205  bash noRev.sh
+  206  vi noRev.sh
+  207  cd Desktop
+  208  cd Shell
+  209  mkdir InternalExam
+  210  cd InternalExam
+  211  cd ..
+  212  ls
+  213  vi countfile.sh
+  214  vi countfileTwo.sh
+  215  bash countfileTwo.sh
+  216  vi countfileTwo.sh
+  217  bash countfileTwo.sh
+  218  vi countfileTwo.sh
+  219  bash countfileTwo.sh
+  220  vi countfileTwo.sh
+  221  bash countfileTwo.sh
+  222  vi countfileTwo.sh
+  223  bash countfileTwo.sh
+  224  vi countfile.sh
+  225  vi countfileTwo.sh
+  226  bash countfileTwo.sh
+  227  vi countfileTwo.sh
+  228  bash countfileTwo.sh
+  229  vi countfileTwo.sh
+  230  bash countfileTwo.sh
+  231  vi countfileTwo.sh
+  232  bash countfileTwo.sh
+  233  vi countfileTwo.sh
+  234  bash countfileTwo.sh
+  235  vi countfileTwo.sh
+  236  cd Desktop
+  237  cd Shell
+  238  cd InternalExam
+  239  vi vowelsCountConstrains.sh
+  240  bash vowelsCountConstrains.sh
+  241  vi vowelsCountConstrains.sh
+  242  bash vowelsCountConstrains.sh
+  243  vi vowelsCountConstrains.sh
+  244  bash vowelsCountConstrains.sh
+  245  vi vowelsCountConstrains.sh
+  246  bash vowelsCountConstrains.sh
+  247  vi vowelsCountConstrains.sh
+  248  bash vowelsCountConstrains.sh
+  249  vi vowelsCountConstrains.sh
+  250  bash vowelsCountConstrains.sh
+  251  vi vowelsCountConstrains.sh
+  252  bash vowelsCountConstrains.sh
+  253  vi vowelsCountConstrains.sh
+  254  bash vowelsCountConstrains.sh
+  255  vi vowelsCountConstrains.sh
+  256  bash vowelsCountConstrains.sh
+  257  vi vowelsCountConstrains.sh
+  258  bash vowelsCountConstrains.sh
+  259  vi vowelsCountConstrains.sh
+  260  vi file.txt
+  261  vi sortLine.sh
+  262  bash sortLine.sh
+  263  vi sortLine.sh
+  264  bash sortLine.sh
+  265  vi sortLine.sh
+  266  bash sortLine.sh
+  267  vi sortLine.sh
+  268  bash sortLine.sh
+  269  vi sortLine.sh
+  270  vi file.txt
+  271  vi sortLine.sh
+  272  bash sortLine.sh
+  273  vi sortNoInputToFile.sh
+  274  bash sortNoInputToFile.sh
+  275  vi sortNoInputToFile.sh
+  276  bash sortNoInputToFile.sh
+  277  vi num.txt
+  278  vi sortNoInputToFile.sh
+  279  bash sortNoInputToFile.sh
+  280  vi num.txt
+  281  vi sortNoInputToFile.sh
+  282  bash sortNoInputToFile.sh
+  283  vi sortNoInputToFile.sh
+  284  bash sortNoInputToFile.sh
+  285  ls
+  286  vi sortNoInputToFile.sh
+  287  bash sortNoInputToFile.sh
+  288  vi file.txt
+  289  vi sortNoInputToFile.sh
+  290  bash sortNoInputToFile.sh
+  291  vi sortNoInputToFile.sh
+  292  bash sortNoInputToFile.sh
+  293  vi file.txt
+  294  vi sortNoInputToFile.sh
+  295  bash sortNoInputToFile.sh
+  296  vi num.txt
+  297  vi sortNoInputToFile.sh
+  298  vi readLineInFile.sh
+  299  cd ..
+  300  ls
+  301  vi vowelsCount.sh
+  302  bash vowelsCount.sh
+  303  vi vowelsCount.sh
+  304  bash vowelsCount.sh
+  305  vi vowelsCount.sh
+  306  bash vowelsCount.sh
+  307  vi vowelsCount.sh
+  308  bash vowelsCount.sh
+  309  vi vowelsCount.sh
+  310  bash vowelsCount.sh
+  311  vi vowelsCount.sh
+  312  bash vowelsCount.sh
+  313  vi vowelsCount.sh
+  314  bash vowelsCount.sh
+  315  vi vowelsCount.sh
+  316  bash vowelsCount.sh
+  317  vi vowelsCount.sh
+  318  bash vowelsCount.sh
+  319  vi vowelsCount.sh
+  320  bash vowelsCount.sh
+  321  vi vowelsCount.sh
+  322  bash vowelsCount.sh
+  323  vi vowelsCount.sh
+  324  ls
+  325  cd InernalExam
+  326  cd InternalExam
+  327  ls
+  328  vi readLineInFile.sh
+  329  ls
+  330  bash readLineInFile.sh
+  331  vi file.txt
+  332  vi mkdirSmp.sh
+  333  bash  mkdirSmp.sh
+  334  ls
+  335  vi mkdirSmp.sh
+  336  bash  mkdirSmp.sh
+  337  vi mkdirSmp.sh
+  338  bash  mkdirSmp.sh
+  339  ls
+  340  cd ..
+  341  vi countDire.sh
+  342  bash countDire.sh
+  343  vi countDire.sh
+  344  bash countDire.sh
+  345  vi countDire.sh
+  346  bash countDire.sh
+  347  vi countDire.sh
+  348  bash countDire.sh
+  349  vi countDire.sh
+  350  bash countDire.sh
+  351  cd InternalExam
+  352  ls
+  353  cd ..
+  354  ls
+  355  vi primNo.sh
+  356  ls
+  357  cd InternalExam
+  358  ls
+  359  vi ManuDriven.sh
+  360  bash ManuDriven.sh
+  361  vi ManuDriven.sh
+  362  bash ManuDriven.sh
+  363  vi ManuDriven.sh
+  364  bash ManuDriven.sh
+  365  clear
+  366  vi ManuDriven.sh
+  367  bash ManuDriven.sh
+  368  vi ManuDriven.sh
+  369  bash ManuDriven.sh
+  370  vi ManuDriven.sh
+  371  bash ManuDriven.sh
+  372  vi ManuDriven.sh
+  373  bash ManuDriven.sh
+  374  vi ManuDriven.sh
+  375  bash ManuDriven.sh
+  376  vi ManuDriven.sh
+  377  sudo apt-get update
+  378  ls
+  379  cd Desktop
+  380  ls
+  381  cd Shell
+  382  ls
+  383  cd InternalExam
+  384  ls
+  385  cat sortLine
+  386  cat sortLine.sh
+  387  cat readLineInFile.sh
+  388  clear
+  389  ls
+  390  cat manuDriven.sh
+  391  cat ManuDriven.sh
+  392  head -help
+  393  head --help
+  394  head -n 20  ManuDriven.sh
+  395  head -c 20  ManuDriven.sh
+  396  tail --help
+  397  ls
+  398  ls --help
+  399  ls -d
+  400  ls -d smpl
+  401  ls
+  402  cut mkdirSmp.sh
+  403  cut --help
+  404  cut mkdirSmp.sh
+  405  cut mkdirSmp.sh Smpl
+  406  man cut
+  407  man expr
+  408  expr 100/ * /200
+  409  ls -d .
+  410  ls -d */
+  411  cd ..
+  412  ls -d */
+  413  ls
+  414  mkdir ExternalExam
+  415  ls -d */
+  416  ls /InternalExam
+  417  sudo ls /InternalExam
+  418  ls -a /InternalExam
+  419  pwd
+  420  ls -a /home/kali/Desktop/Shell/InternalExam\n
+  421  ls -d /home/kali/Desktop/Shell/InternalExam\n
+  422  ls -d */ /home/kali/Desktop/Shell/InternalExam\n
+  423  ls -d  /home/kali/Desktop/Shell/InternalExam\n
+  424  ls  /home/kali/Desktop/Shell/InternalExam\n
+  425  ls -l  /home/kali/Desktop/Shell/InternalExam\n
+  426  man ls
+  427  expr 100 /* 3
+  428  expr 100 *\ 3
+  429  expr 100 \* 3
+  430  expr 10 + 2
+  431  man tar
+  432  ls
+  433  cd ..
+  434  ls
+  435  tar --help
+  436  clear
+  437  ls
+  438  tar -a countfile.sh countfileTwo.sh
+  439  tar countfile.sh countfileTwo.sh
+  440  tar -a countfile.sh
+  441  man tar
+  442  tar -A countfile.sh countfileTwo.sh
+  443  tar -Af countfile.sh countfileTwo.sh
+  444  ls
+  445  tar -xvf countfile.sh countfileTwo.sh
+  446  ls
+  447  tar -xvf countfile.sh 
+  448  tar -cjvf archive.tar.bz2 files_to_archive/
+  449  tar -cjvf countfile.sh countfileTwo.sh
+  450  ls
+  451  tar -xzvf archive.tar.bz2
+  452  ls
+  453  pwd
+  454  mv archive.tar.bz2 /home/kali/Desktop/Shell
+  455  ls
+  456  cd Shell
+  457  ls
+  458  tar -xzvf archive.tar.bz2
+  459  tar -xjvf archive.tar.bz2
+  460  ls
+  461  cd archive.tar.bz2
+  462  cd ..
+  463  ls
+  464  mv archive.tar.bz2  /home/kali/Desktop/Shell/ExternalExam
+  465  cp archive.tar.bz2  /home/kali/Desktop/Shell/ExternalExam
+  466  pwd
+  467  cd Shell
+  468  ls
+  469  pwd
+  470  mv archive.tar.bz2  /home/kali/Desktop/Shell/ExternalExam
+  471  cd ExternalExam
+  472  ls
+  473  tar -xjvf archive.tar.bz2
+  474  ls
+  475  tar -xjvf archive.tar.bz2
+  476  ls
+  477  cd ..
+  478  ls
+  479  more fileRev.txt
+  480  clear
+  481  ls
+  482  less fileRev.txt
+  483  ls
+  484  cd Desktop
+  485  ls
+  486  cd Shell
+  487  ls
+  488  vi ManuDriven.sh
+  489  cd InternalExam
+  490  ls
+  491  vi ManuDriven.sh
+  492  bash ManuDriven.sh
+  493  clear
+  494  cd ..
+  495  ping goole.com
+  496  ping https:://google.com
+  497  cd Desktop
+  498  john
+  499  zip2john Pwd.zip
+  500  zip2john Pwd.zip > pwd.txt
+  501  john --format_zip pwd.txt
+  502  john --format-zip pwd.txt
+  503  john
+  504  john --help
+  505  john --format-zip pwd.txt
+  506  john --format_zip pwd.txt
+  507  sudo john --format-zip pwd.txt
+  508  sudo john --format pwd.txt
+  509  sudo john --format -zip  pwd.txt
+  510  sudo john --format-zip  pwd.txt
+  511  ls
+  512  cd Desktop
+  513  ls
+  514  cd  Shell
+  515  ls
+  516  john --wordlist=/path/to/wordlist.txt --format=zip pwd.txt\n
+  517  john --format=zip pwd.txt\n
+  518  cd Desktop\n
+  519  john --format=zip pwd.txt\n
+  520  zip2john smpl.zip > sm.txt
+  521  john --format=zip sm.txt\n
+  522  zip2john shmail.zip > monu.txt
+  523  zip2john Shmail.zip > monu.txt
+  524  john --format=zip monu.txt\n
+  525  zip2john Shamil.zip > ajk.txt
+  526  john --format=zip ajk.txt\n
+  527  cd Desktop\n
+  528  ls
+  529  cd Shell
+  530  ls
+  531  cat email.sh
+  532  cat primeNo
+  533  cat primeNo.sg
+  534  cat primeNo.sh
+  535  cat primNo.sh
+  536  vi primNo.sh
+  537  ls
+  538  cd InternalExam
+  539  ls
+  540  vi ManuDriven.sh
+  541  ls
+  542  cd Desktop\n
+  543  ls
+  544  cd Shell
+  545  ls
+  546  cd ExternalExam
+  547  ls
+  548  cd ..
+  549  ls
+  550  ls -D *
+  551  ls -D
+  552  ls -l  '^d'
+  553  ls -d  '^d'
+  554  ls -D  '^d'
+  555  ls -d /*
+  556  ls -D /*
+  557  clear
+  558  ls 
+  559  ls -d /*
+  560  ls
+  561  ls -d */
+  562  ls --help
+  563  ls -l
+  564  ls -f
+  565  man ls
+  566  ls -p
+  567  ls -p */
+  568  ls -f */
+  569  ls -l */
+  570  ls
+  571  ls -l -p | grep -v /
+  572  ls  -p | grep -v /
+  573  ls  -p
+  574  ls  -p | grep -v 
+  575  ls  -p | grep -v /
+  576  man ls
+  577  man read
+  578  read a
+  579  echo a
+  580  echo $a
+  581  echa adil
+  582  echo adil
+  583  ls
+  584  cd InternalExam
+  585  ls
+  586  more ManuDriven.sh
+  587  less ManuDriven.sh
+  588  man more 
+  589  man less
+  590  more ManuDriven.sh
+  591  cat primNo.sh
+  592  cat ManuDriven.sh
+  593  man cat
+  594  ls
+  595  cat ManuDriven.sh file.txt
+  596  ls
+  597  man cat
+  598  man tar
+  599  ls
+  600  tar -cjvf mkdirSmp.sh /smpl
+  601  tar -cjvf mkdirSmp.sh ./smpl
+  602  cd smpl
+  603  ls
+  604  cd .
+  605  cd ..
+  606  tar -cjvf mkdirSmp.sh/smpl
+  607  tar --help
+  608  ls
+  609  tar -cf mkdirSmp.sh
+  610  tar --help
+  611  man tar
+  612  tar -cf mkdirSmp.sh
+  613  tar -cjvf mkdirSmp.sh
+  614  tar -cf mkdirSmp.sh
+  615  tar --usage
+  616  tar -cfg mkdirSmp.sh
+  617  ls
+  618  tar -cvf smple.tar  mkdirSmp.sh
+  619  ls
+  620  tar -xvf smple.tar  mkdirSmp.sh
+  621  ls
+  622  mv smle.tar smpl
+  623  pwd
+  624  Certainly, here are some examples of using the `tar` command to create and extract archive files in various scenarios:\n\n**1. Create a Tar Archive:**\nTo create a tar archive of a directory named "mydir" and save it as "mydir.tar":\n\n```bash\ntar -cvf mydir.tar mydir/\n```\n\n**2. Create a Compressed Tar Archive (gzip):**\nTo create a gzip-compressed tar archive of a directory and save it as "mydir.tar.gz":\n\n```bash\ntar -czvf mydir.tar.gz mydir/\n```\n\n**3. Create a Compressed Tar Archive (bzip2):**\nTo create a bzip2-compressed tar archive of a directory and save it as "mydir.tar.bz2":\n\n```bash\ntar -cjvf mydir.tar.bz2 mydir/\n```\n\n**4. Extract a Tar Archive:**\nTo extract the contents of a tar archive named "myarchive.tar":\n\n```bash\ntar -xvf myarchive.tar\n```\n\n**5. Extract a Compressed Tar Archive (gzip):**\nTo extract the contents of a gzip-compressed tar archive named "myarchive.tar.gz":\n\n```bash\ntar -xzvf myarchive.tar.gz\n```\n\n**6. Extract a Compressed Tar Archive (bzip2):**\nTo extract the contents of a bzip2-compressed tar archive named "myarchive.tar.bz2":\n\n```bash\ntar -xjvf myarchive.tar.bz2\n```\n\n**7. Extract to a Specific Directory:**\nTo extract the contents of an archive into a specific directory:\n\n```bash\ntar -xvf myarchive.tar -C /path/to/destination/\n```\n\nThese examples showcase different scenarios for using the `tar` command to create and extract archive files. Replace the filenames and directory paths with your own specific file and directory names as needed. The `-c` flag stands for create, `-x` for extract, `-z` for gzip compression, `-j` for bzip2 compression, `-v` for verbose output, and `-f` to specify the archive fic
+  625  ls
+  626  cd Desktop\n
+  627  ls
+  628  cd Shell
+  629  ls
+  630  cd InternalExam
+  631  ls
+  632  pwd
+  633  mv smle.tar /home/kali/Desktop/Shell/InternalExam/smpl\n
+  634  mv smple.tar /home/kali/Desktop/Shell/InternalExam/smpl\n
+  635  cd smpl
+  636  ls
+  637  tar -xvf smple.tar
+  638  ls
+  639  tar --halp
+  640  tar --help
+  641  man wc
+  642  wc --help
+  643  man cut
+  644  cut --help
+  645  ls
+  646  cut smple.tar
+  647  cut --help
+  648  ls
+  649  cut -f smple.tar
+  650  cut mkdirSmp.sh
+  651  cut -f  mkdirSmp.sh
+  652  cut --help
+  653  man cut
+  654  cut -c 1-10 mkdirSmp.sh
+  655  paste
+  656  man paste
+  657  paste --help
+  658  vi mkdirSmp.sh
+  659  ls
+  660  paste mkdirSmp.sh
+  661  ls
+  662  vi mkdirSmp.sh
+  663  cd ..
+  664  vi mkdirSmp.sh
+  665  ls
+  666  man paste
+  667  man cut
+  668  man head
+  669  head -c 20  ManuDriven.sh
+  670  head -n 20  ManuDriven.sh
+  671  man tail
+  672  tail -n 3
+  673  tail -n 10  ManuDriven.sh
+  674  tail   ManuDriven.sh
+  675  man grep
+  676  grep -o invalid ManuDriven.sh
+  677  grep -o ivalid ManuDriven.sh
+  678  grep -o invalid ManuDriven.sh
+  679  grep -oi invalid ManuDriven.sh
+  680  grep --help
+  681  grep -oi else ManuDriven.sh
+  682  grep -o else ManuDriven.sh
+  683  grep -oc else ManuDriven.sh
+  684  grep -ow else ManuDriven.sh
+  685  grep -w else ManuDriven.sh
+  686  grep -wc else ManuDriven.sh
+  687  man grep 
+  688  expr 10 + 2
+  689  expr 10 - 2
+  690  expr 10 /* 3
+  691  expr 10 \* 3
+  692  expr 10 \/ 3
+  693  expr 10 \/ 2
+  694  man chmod
+  695  chmod --help 
+  696  man chmod
+  697  man chowd
+  698  man chown
+  699  ls
+  700  man useradd
+  701  man df
+  702  df ManuDriven.sh
+  703  man df
+  704  df
+  705  df --help
+  706  ls
+  707  df --help >  redir.txt 
+  708  ls
+  709  cat  redir.txt 
+  710  man top
+  711  top
+  712  man ps
+  713  ps
+  714  man ssh
+  715  cd ..
+  716  cd ExternalExam
+  717  ls
+  718  tar -xvf archive.tar.bz2
+  719  ls
+  720  tar -xjf archive.tar.bz2
+  721  ls
+  722  vi vowelsCountExternal.sh
+  723  bash vowelsCountExternal.sh
+  724  vi vowelsCountExternal.sh
+  725  bash vowelsCountExternal.sh
+  726  vi vowelsCountExternal.sh
+  727  bash vowelsCountExternal.sh
+  728  vi vowelsCountExternal.sh
+  729  ls
+  730  vi vowelsCountExternal.sh
+  731  bash vowelsCountExternal.sh
+  732  vi vowelsCountExternal.sh
+  733  bash vowelsCountExternal.sh
+  734  vi vowelsCountExternal.sh
+  735  bash vowelsCountExternal.sh
+  736  vi vowelsCountExternal.sh
+  737  bash vowelsCountExternal.sh
+  738  vi vowelsCountExternal.sh
+  739  bash vowelsCountExternal.sh
+  740  vi vowelsCountExternal.sh
+  741  bash vowelsCountExternal.sh
+  742  vi vowelsCountExternal.sh
+  743  bash vowelsCountExternal.sh
+  744  vi vowelsCountExternal.sh
+  745  bash vowelsCountExternal.sh
+  746  vi file.txt
+  747  ls
+  748  vowelCountFile.sh
+  749  vi vowelCountFile.sh
+  750  bash vowelCountFile.sh
+  751  vi vowelCountFile.sh
+  752  bash vowelCountFile.sh
+  753  ls
+  754  cd Desktop\n
+  755  ls
+  756  cd shell
+  757  cd Shell
+  758  ls
+  759  cd ExternalExam
+  760  ls  -p | grep -v /
+  761  cd ..
+  762  ls -l | grep '^d'
+  763  ls  | grep '^d'
+  764  ls -d | grep '^d'
+  765  ls -l | grep '^d'
+  766  ls -d '^d'
+  767  ls -l '^d'
+  768  cd ExternalExam
+  769  ls
+  770  vi wordCount.sh
+  771  bash wordCount.sh
+  772  vi wordCount.sh
+  773  bash wordCount.sh
+  774  vi wordCount.sh
+  775  bash wordCount.sh
+  776  vi file.txt
+  777  bash wordCount.sh
+  778  vi file.txt
+  779  vi wordCount.sh
+  780  bash wordCount.sh
+  781  vi email.sh
+  782  bash email.sh
+  783  vi fibonacci.sh
+  784  bash fibonacci.sh
+  785  vi fibonacci.sh
+  786  bash fibonacci.sh
+  787  vi fibonacci.sh
+  788  bash fibonacci.sh
+  789  vi fibonacci.sh
+  790  bash fibonacci.sh
+  791  vi fibonacci.sh
+  792  bash fibonacci.sh
+  793  vi fibonacci.sh
+  794  bash fibonacci.sh
+  795  vi fibonacci.sh
+  796  bash fibonacci.sh
+  797  vi fibonacci.sh
+  798  bash fibonacci.sh
+  799  vi fibonacci.sh
+  800  bash fibonacci.sh
+  801  vi fibonacci.sh
+  802  bash fibonacci.sh
+  803  vi fibonacci.sh
+  804  bash fibonacci.sh
+  805  vi fibonacci.sh
+  806  bash fibonacci.sh
+  807  vi fibonacci.sh
+  808  bash fibonacci.sh
+  809  vi caseExmpl.sh
+  810  bash caseExmpl.sh
+  811  vi threeNoGt.sh
+  812  bash threeNoGt.sh
+  813  vi checkTriangle.sh
+  814  bash checkTriangle.sh
+  815  vi checkTriangle.sh
+  816  bash checkTriangle.sh
+  817  vi noRev.sh
+  818  bash noRev.sh
+  819  vi noRev.sh
+  820  bash noRev.sh
+  821  cat noRev.sh
+  822  vi stringRev.sh
+  823  bash stringRev.sh
+  824  vi stringRev.sh
+  825  bash stringRev.sh
+  826  vi stringRev.sh
+  827  bash stringRev.sh
+  828  cat stringRev.sh noRev.sh
+  829  ls
+  830  cd ..
+  831  ld
+  832  ls
+  833  ls -l '^d'
+  834  ls -l grep '^d'
+  835  ls -l  |  grep '^d'
+  836  ls -d  |  grep '^d'
+  837  ls -l  |  grep '^d'
+  838  pwd
+  839  ls -l  |  grep '^f'
+  840  ls
+  841  cd ExternalExam
+  842  ls
+  843  vi checkAfileInCurrenrDir.sh
+  844  bash checkAfileInCurrenrDir.sh
+  845  vi checkAfileInCurrenrDir.sh
+  846  bash checkAfileInCurrenrDir.sh
+  847  vi checkAfileInCurrenrDir.sh
+  848  bash checkAfileInCurrenrDir.sh
+  849  vi checkAfileInCurrenrDir.sh
+  850  bash checkAfileInCurrenrDir.sh
+  851  vi checkAfileInCurrenrDir.sh
+  852  bash checkAfileInCurrenrDir.sh
+  853  ls
+  854  mv noRev.sh NumRev.sh
+  855  ls
+  856  vi appendToTxtFile.sh
+  857  vi appendText.txt
+  858  bash appendToTxtFile.sh
+  859  vi appendToTxtFile.sh
+  860  bash appendToTxtFile.sh
+  861  vi appendToTxtFile.sh
+  862  bash appendToTxtFile.sh
+  863  vi appendText.txt
+  864  bash appendToTxtFile.sh
+  865  vi appendToTxtFile.sh
+  866  bash appendToTxtFile.sh
+  867  vi appendToTxtFile.sh
+  868  bash appendToTxtFile.sh
+  869  vi appendText.txt
+  870  vi appendToTxtFile.sh
+  871  bash appendToTxtFile.sh
+  872  vi appendText.txt
+  873  vi appendToTxtFile.sh
+  874  ls
+  875  sudo apt-get update
+  876  ls
+  877  cd Desktop\n
+  878  ls
+  879  cd Shell
+  880  ls
+  881  cd ExternalExam
+  882  ls
+  883  git --version
+  884  vi appendText.txt
+  885  vi editing.ss
+  886  mv editing.ss editing.sh
+  887  vi editing.sh
+  888  bash editing.sh
+  889  vi editing.sh
+  890  vi appendText.txt
+  891  vi editing.sh
+  892  bash editing.sh
+  893  vi editing.sh
+  894  bash editing.sh
+  895  vi editing.sh
+  896  bash editing.sh
+  897  ls
+  898  vi editing.sh
+  899  bash editing.sh
+  900  vi editing.sh
+  901  bash editing.sh
+  902  vi editing.sh
+  903  bash editing.sh
+  904  vi editing.sh
+  905  bash editing.sh
+  906  vi editing.sh
+  907  bash editing.sh
+  908  vi editing.sh
+  909  bash editing.sh
+  910  vi editing.sh
+  911  bash editing.sh
+  912  vi editing.sh
+  913  bash editing.sh
+  914  vi editing.sh
+  915  bash editing.sh
+  916  vi editing.sh
+  917  bash editing.sh
+  918  vi editing.sh
+  919  bash editing.sh
+  920  vi editing.sh
+  921  bash editing.sh
+  922  vi editing.sh
+  923  bash editing.sh
+  924  vi editing.sh
+  925  bash editing.sh
+  926  ls
+  927  bash editing.sh
+  928  vi editing.sh
+  929  bash editing.sh
+  930  vi appendText.txt
+  931  rm appendText.txt
+  932  vi appendText.txt
+  933  bash editing.sh
+  934  vi appendText.txt
+  935  bash editing.sh
+  936  vi editing.sh
+  937  bash editing.sh
+  938  vi appendText.txt
+  939  ls
+  940  history
+  941  clear
